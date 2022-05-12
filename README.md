@@ -1,19 +1,38 @@
-# vuesty
+# Vuesty
 
-## Project setup
-```
-npm install
-```
+- Components created with `.vue` files
+- Pre css processor: **Sass**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Components
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [ ] Alert
+- [ ] Avatar
+- [ ] Breadcrumb
+- [x] Button
+- [ ] Card
+- [ ] Checkbox
+- [ ] Chip
+- [ ] Collapse
+- [ ] Dialogs
+- [ ] Divider
+- [ ] Dropdown
+- [ ] Images
+- [ ] Input
+- [ ] List
+- [ ] Loading
+- [ ] Navbar
+- [ ] Notification
+- [ ] Number Input
+- [ ] Pagination
+- [ ] Popup
+- [ ] Progress
+- [ ] Radio
+- [x] Select
+- [ ] Sidebar
+- [ ] Slider
+- [ ] Switch
+- [ ] Table
+- [ ] Tabs
+- [ ] Textarea
+- [ ] Tooltip
+- [ ] Upload
